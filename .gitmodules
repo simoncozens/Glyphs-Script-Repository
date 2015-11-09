@@ -1,0 +1,28 @@
+[submodule "Tosche"]
+	path = Tosche
+	url = https://github.com/Tosche/Glyphs-Scripts.git
+    branch = master
+[submodule "Georg"]
+	path = Georg
+	url = https://github.com/schriftgestalt/Glyphs-Scripts
+    branch = master
+[submodule "mekkablue"]
+	path = mekkablue
+	url = https://github.com/mekkablue/Glyphs-Scripts
+    branch = master
+[submodule "Simon"]
+	path = Simon
+	url = https://github.com/simoncozens/GlyphsScripts
+	branch = master
+[submodule "JustAnotherFoundry"]
+	path = JustAnotherFoundry
+	url = https://github.com/justanotherfoundry/glyphsapp-scripts
+	branch = master
+[submodule "DeutschMark"]
+	path = DeutschMark
+	url = https://github.com/DeutschMark/Glyphsapp-Scripts
+	branch = master
+[submodule "Wei"]
+	path = Wei
+	url = https://github.com/weiweihuanghuang/wei-glyphs-scripts
+	branch = master
